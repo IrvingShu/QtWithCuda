@@ -1,0 +1,1 @@
+/home/young/cuda/cuda_qt_cross/CudaWithQt/build/CMakeFiles/test_cuda_project.dir

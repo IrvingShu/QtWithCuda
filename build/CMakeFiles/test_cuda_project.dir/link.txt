@@ -1,0 +1,1 @@
+/usr/bin/c++       CMakeFiles/test_cuda_project.dir/main.cpp.o CMakeFiles/test_cuda_project.dir/./test_cuda_project_generated_kernel.cu.o  -o test_cuda_project -rdynamic /usr/local/cuda/lib64/libcudart.so -Wl,-rpath,/usr/local/cuda/lib64 
